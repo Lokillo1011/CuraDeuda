@@ -123,7 +123,6 @@ function ejecutarDT(dato)
 var modal = document.getElementById("modalPokemon");
 var span = document.getElementsByClassName("close")[0];
 function abrirModal(nPokemon){
-    console.log(datos)
     for(var i = 0;i<datos.length;i++)
     {
         if(datos[i].res.id==nPokemon)
@@ -168,4 +167,3 @@ window.onclick = function(event) {
         modal.style.display = "none";
     }
 }
-console.log(datos)

@@ -161,6 +161,12 @@
         </div>
     </div>
 </div>
+
+<div class="botonDiv">
+    <a href="https://pokeapi.co" target="_blank" class="botonFlotante">
+        <i id="iconflotante" style="margin: 12px;" class="bi bi-geo-alt"></i>
+    </a>
+</div>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"
         integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ=="
         crossorigin="anonymous" referrerpolicy="no-referrer"></script>
