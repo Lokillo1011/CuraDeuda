@@ -107,7 +107,7 @@ function ejecutarDT(dato)
                 {data:"1.res.name"},
                 {
                     "render": function (data, type, row, meta) {
-                        let imgSrc=row[1].res.sprites.front_default;
+                        let imgSrc=row[1].res.sprites.other.dream_world.front_default;
                         return '<img style="width: 75px" src="'+imgSrc+'">'
                     }
                 }, {
